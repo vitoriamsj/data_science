@@ -10,7 +10,7 @@
 
 ## Projetos:
 
-* **Case: People Analytics:** https://bit.ly/2L2cMwy
+* **Analisando os dados do Airbnb:** 
 
 
 ---
