@@ -4,7 +4,7 @@
 
 
 
-**Background in:** Business Intelligence, PowerBI, Python, SQL
+**Competências:** Business Intelligence, PowerBI, Python, SQL, Data Science.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/vitoriamsj)
