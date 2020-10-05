@@ -3,7 +3,6 @@
 <sub>*Engenheira de Produção* 
 
 
-
 **Competências:** Business Intelligence, PowerBI, Python, SQL, Data Science.
 
 **Links:**
