@@ -13,6 +13,7 @@ Críticas são sempre bem-vindas!
 ## Projetos:
 
 * **Analisando os dados do Airbnb:** 
+* **Case: People Analytics:** 
 
 
 ---
