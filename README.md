@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
+</p>
 
 # Vitória Maria
   
