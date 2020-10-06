@@ -12,7 +12,7 @@ Críticas são sempre bem-vindas!
 
 ## Projetos:
 
-* **Acidentes em Rodovias Federais (BR):** 
+* **Acidentes em Rodovias Federais (BR):** https://bit.ly/2F6x5sP
 * **Analisando os dados do Airbnb:** 
 * **Case: People Analytics:** 
 
