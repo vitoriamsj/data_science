@@ -15,10 +15,10 @@ Críticas são sempre bem-vindas!
 
 ## Projetos:
 
-* **Acidentes em Rodovias Federais (BR):** https://bit.ly/2F6x5sP
+* **Acidentes em Rodovias Federais (BR):** http://bit.ly/Analise-Rodovias
 * **Analisando os dados do Airbnb:** http://bit.ly/Analise-Airbnb
-* **Case: People Analytics:** https://bit.ly/3llIYuu
-* **Relatório de Segurança:** https://bit.ly/2HU043U
+* **Case: People Analytics:** http://bit.ly/Case-People-Analytics
+* **Relatório de Segurança:** http://bit.ly/Relatorio-Seguranca
 
 
 ---
