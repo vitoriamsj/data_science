@@ -19,6 +19,7 @@ Críticas são sempre bem-vindas!
 * **Analisando os dados do Airbnb:** http://bit.ly/Analise-Airbnb
 * **Case: People Analytics:** http://bit.ly/Case-People-Analytics
 * **Relatório de Segurança:** http://bit.ly/Relatorio-Seguranca
+* **Analisando a Violência no Rio de Janeiro:** http://bit.ly/Analise-Violencia-RJ
 
 
 ---
