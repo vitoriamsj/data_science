@@ -20,7 +20,7 @@ Críticas são sempre bem-vindas!
 * **Case: People Analytics:** http://bit.ly/Case-People-Analytics
 * **Relatório de Segurança:** http://bit.ly/Relatorio-Seguranca
 * **Analisando a Violência no Rio de Janeiro:** http://bit.ly/Analise-Violencia-RJ
-
+* **Panorama do COVID-19 no Brasil e no Mundo:** http://bit.ly/COVID19-Brasil-Mundo
 
 ---
 
